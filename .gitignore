@@ -1,0 +1,10 @@
+.env
+Secret key.docx
+rag_env/
+.venv/
+langfuse/
+documents/
+__pycache__/
+*.pyc
+*_BACKUP.py
+Tutorial_EDIT.pdf
